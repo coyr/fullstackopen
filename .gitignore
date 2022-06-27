@@ -1,0 +1,10 @@
+**/.DS_Store
+playground/
+part1/courseinfo/public/
+part1/courseinfo/package-lock.json
+part1/courseinfo/package.json
+part1/courseinfo/README.md
+part1/courseinfo/yarn.lock
+
+**/node_modules
+
