@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **/.DS_Store
 playground/
 part1/courseinfo/public/
@@ -8,3 +9,6 @@ part1/courseinfo/yarn.lock
 
 **/node_modules
 
+=======
+**/.DS_Store
+>>>>>>> 63405bd24d152dc11dc2418e2f3b2f2099621bc6
